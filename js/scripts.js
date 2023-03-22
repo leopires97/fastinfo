@@ -110,7 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["I am A Freelancer.", "I Design Websites.", "I Live in New York."],    /* You can change the home section typing text from
+            strings: ["Venha conhecer nossa empresa."],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 50
           });
@@ -141,8 +141,8 @@
         $('.portfolio-popup').magnificPopup({
             type: 'image',
 			
-            gallery: { enabled: true },
-			zoom: { enabled: true,
+            gallery: { enabled: false },
+			zoom: { enabled: false,
 			        duration: 500
 					
           },
