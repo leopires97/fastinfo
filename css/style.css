@@ -69,6 +69,7 @@ h4,
 h5,
 h6 {
 	font-family: 'Poppins', sans-serif;
+    color: #256db3;
 }
 
 a {
@@ -679,9 +680,8 @@ ul.portfolio li.active {
 
 .statistics-section {
 	position: relative;
-    background: url(../images/bg/bg.png);
-    background-size: cover;
     z-index: 1;
+    height: 100px;
 }
 
 .statistics {
@@ -745,8 +745,8 @@ ul.portfolio li.active {
   transition: all 0.3s ease-in-out;
   position: relative;
   top: 0px;
-  padding: 60px 40px 60px 40px;
-  margin-top: 32px;
+  padding: 20px 10px 20px 10px;
+  margin-top: 10px;
 }
 
 .services-section .services-detail:hover {
@@ -1407,27 +1407,28 @@ ul.portfolio li.active {
 /* Colors */
 
 .color-1 {
-	color: #f306a0;
+	color: #1c4e77;
+    
 }
 
 .color-2 {
-	color: #d60bfb;
+	color: #170057;
 }
 
 .color-3 {
-	color: #d8be10;
+	color: #0f003a;
 }
 
 .color-4 {
-	color: #0fd28a;
+	color: #0b0029;
 }
 
 .color-5 {
-	color: #f97400;
+	color: #060018;
 }
 
 .color-6 {
-	color: #08a6f3;
+	color: #050013;
 }
 
 
